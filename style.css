@@ -1,0 +1,12 @@
+table {
+    text-align: left;
+}
+
+td:first-child {
+    font-weight: bold;
+}
+
+h3 {
+    text-decoration: underline;
+    margin-left: 10px;
+}

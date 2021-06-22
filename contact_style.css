@@ -1,0 +1,11 @@
+#main,
+#form_container,
+#subscribe_container {
+    padding: 10px;
+}
+
+input,
+textarea,
+label {
+    margin: 5px;
+}
