@@ -6,7 +6,29 @@ td:first-child {
     font-weight: bold;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #798777;
+}
+
 h3 {
     text-decoration: underline;
     margin-left: 10px;
+}
+
+body {
+    background-color: #BDD2B6
+}
+
+header,
+footer {}
+
+hr {
+    border: none;
+    border-top: dotted 5px lightgrey;
+    width: 5%;
 }
